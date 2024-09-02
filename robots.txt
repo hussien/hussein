@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hussien.github.io/hussein//sitemap.xml
+Sitemap: https://hussien.github.io/hussein/hussein//sitemap.xml
